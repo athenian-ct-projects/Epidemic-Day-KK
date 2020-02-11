@@ -1,9 +1,6 @@
-# Assignment Description
+# Epidemic Journey: A Board Game
 
-written by 
+written by KK '23
 
-edit with appropriate link:
-
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
-
-Add info about game here
+* [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Epidemic-Day-KK)](https://repl.it/github/athenian-ct-projects/Epidemic-Day-KK)
+* A game board is required for this game.
